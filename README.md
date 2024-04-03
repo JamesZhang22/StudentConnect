@@ -1,2 +1,2 @@
 # StudentConnect
-Dashboard for students to connect with eachother
+Dashboard for students to connect with eachother MERN
